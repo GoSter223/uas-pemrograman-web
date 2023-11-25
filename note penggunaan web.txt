@@ -1,0 +1,3 @@
+karena menggunakan bootstrap secara online makan diperkenankan untuk menggunkan internet
+halaman utama adalah halaman "home.php"
+untuk masuk sebagai admin menggunakan username "alif" dan password "1234"

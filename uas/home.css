@@ -1,0 +1,44 @@
+body {
+    background-image: url(bg2.jpg);
+}
+
+.searchbar {
+    width: 500px;
+}
+
+.profil {
+    font-size: 25px;
+    width: 40px;
+    height: 40px;
+    border: none;
+}
+
+.icon {
+    font-size: 25px;
+}
+
+.nama {
+    margin-top: 10px;
+}
+
+.table {
+    width: auto;
+}
+
+.icon-apl {
+    height: 150px;
+}
+
+.icon-apl2 {
+    height: 190px;
+}
+
+.install {
+    width: 290px !important;
+}
+
+.ellipsis {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
